@@ -51,9 +51,3 @@ class Aplicacao extends StatelessWidget {
 }
 
 void main() => runApp(const Aplicacao());
-
-
-git init
-git checkout -b atividade-20240924
-git config  --global user.name "CaioBononi7"
-git config  --global user.email "danoninhobrlvl1@gmail.com"
